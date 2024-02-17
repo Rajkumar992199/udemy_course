@@ -6,4 +6,5 @@ anchor.html is section 3 anchor program.<br>
 image.html is section 3 image program.<br>
 invite.html is section 3 birthday invite program.<br>
 resume.html is section 3 resume program.<br>
-Image folder contains images of programs.
+Image folder contains images of programs.<br>
+external.html, internal.html, inline.html, index.html, style.css are section 4 css trial programs.
