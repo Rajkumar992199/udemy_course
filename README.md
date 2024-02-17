@@ -4,4 +4,5 @@ list.html is section 3 list program.<br>
 nesting_list.html is section 3 nesting of list program.<br>
 anchor.html is section 3 anchor program.<br>
 image.html is section 3 image program.<br>
-invite.html is section 3 birthday invite program.
+invite.html is section 3 birthday invite program.<br>
+resume.html is section 3 resume program.<br>
