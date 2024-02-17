@@ -6,3 +6,4 @@ anchor.html is section 3 anchor program.<br>
 image.html is section 3 image program.<br>
 invite.html is section 3 birthday invite program.<br>
 resume.html is section 3 resume program.<br>
+Image folder contains images of programs.
