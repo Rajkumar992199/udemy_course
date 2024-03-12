@@ -1,11 +1,14 @@
 Udemy web development course programs.<br>
-rating.html is section 2 trial program.<br>
-list.html is section 3 list program.<br>
-nesting_list.html is section 3 nesting of list program.<br>
-anchor.html is section 3 anchor program.<br>
-image.html is section 3 image program.<br>
-invite.html is section 3 birthday invite program.<br>
-resume.html is section 3 resume program.<br>
+<b> section 2 </b> <br>
+rating.html is trial program.<br>
+<b> section 3 <b> <br>
+list.html is list program.<br>
+nesting_list.html is nesting of list program.<br>
+anchor.html is anchor program.<br>
+image.html is image program.<br>
+invite.html is birthday invite program.<br>
+resume.html is resume program.<br>
 Image folder contains images of programs.<br>
-external.html, internal.html, inline.html, index.html, style.css are section 4 css trial programs.<br>
-css_selector.html & css_selector.css are section 4 css selector programs.
+<b> section 4 </b> <br>
+external.html, internal.html, inline.html, index.html, style.css are css trial programs.<br>
+css_selector.html & css_selector.css are css selector programs.
