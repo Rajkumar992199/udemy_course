@@ -1,5 +1,5 @@
 Udemy web development course programs.<br>
-<b> <h1>section 2 </h1></b> <br>
+<b> <h3>section 2 </h3></b> <br>
 rating.html is trial program.<br>
 <b> section 3 <b> <br>
 list.html is list program.<br>
