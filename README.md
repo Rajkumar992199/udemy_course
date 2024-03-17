@@ -9,6 +9,6 @@ image.html is image program.<br>
 invite.html is birthday invite program.<br>
 resume.html is resume program.<br>
 Image folder contains images of programs.<br>
-<b> section 4 </b> <br>
+<b> <h3>section 4 </h3></b>
 external.html, internal.html, inline.html, index.html, style.css are css trial programs.<br>
 css_selector.html & css_selector.css are css selector programs.
