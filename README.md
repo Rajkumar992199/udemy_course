@@ -1,7 +1,7 @@
 Udemy web development course programs.<br>
-<b> <h3>section 2 </h3></b> <br>
+<b> <h3>section 2 </h3></b>
 rating.html is trial program.<br>
-<b> section 3 <b> <br>
+<b> <h3>section 3 </h3></b>
 list.html is list program.<br>
 nesting_list.html is nesting of list program.<br>
 anchor.html is anchor program.<br>
